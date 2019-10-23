@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="backgroundLight">#252c30</color>
+    <color name="backgroundDark">#121a1e</color>
+    <color name="forecast_temp_color">#ffffff</color>
+    <color name="forecast_descr_color">#878b96</color>
+    <color name="forecast_day_color">#fdd65e</color>
+
+    <!--01dp-->
+    <color name="city01dp">#870f15</color>
+    <color name="temp01dp">#870f15</color>
+    <color name="description01dp">#870f15</color>
+    <!--01dn-->
+    <color name="city01dn">#06383e</color>
+    <color name="temp01dn">#06383e</color>
+    <color name="description01dn">#06383e</color>
+    <!--01np-->
+    <color name="city01np">#c7b081</color>
+    <color name="temp01np">#c7b081</color>
+    <color name="description01np">#c7b081</color>
+    <!--01nn-->
+    <color name="city01nn">#FFFFFF</color>
+    <color name="temp01nn">#FFFFFF</color>
+    <color name="description01nn">#FFFFFF</color>
+    <!--02dp-->
+    <color name="city02dp">#06383e</color>
+    <color name="temp02dp">#06383e</color>
+    <color name="description02dp">#06383e</color>
+    <!--02np-->
+    <color name="city02np">#FFFFFF</color>
+    <color name="temp02np">#FFFFFF</color>
+    <color name="description02np">#FFFFFF</color>
+    <!--02dn-->
+    <color name="city02dn">#1f364c</color>
+    <color name="temp02dn">#1f364c</color>
+    <color name="description02dn">#1f364c</color>
+    <!--02nn-->
+    <color name="city02nn">#FFFFFF</color>
+    <color name="temp02nn">#FFFFFF</color>
+    <color name="description02nn">#FFFFFF</color>
+    <!--03dn-->
+    <color name="city03dn">#1f364c</color>
+    <color name="temp03dn">#1f364c</color>
+    <color name="description03dn">#1f364c</color>
+    <!--03nn-->
+    <color name="city03nn">#fdc454</color>
+    <color name="temp03nn">#fdc454</color>
+    <color name="description03nn">#fdc454</color>
+    <!--03dp-->
+    <color name="city03dp">#1f364c</color>
+    <color name="temp03dp">#1f364c</color>
+    <color name="description03dp">#1f364c</color>
+    <!--03np-->
+    <color name="city03np">#fdc454</color>
+    <color name="temp03np">#fdce73</color>
+    <color name="description03np">#cfa85b</color>
+    <!--04dn-->
+    <color name="city04dn">#1f364c</color>
+    <color name="temp04dn">#1f364c</color>
+    <color name="description04dn">#1f364c</color>
+    <!--04nn-->
+    <color name="city04nn">#FFFFFF</color>
+    <color name="temp04nn">#FFFFFF</color>
+    <color name="description04nn">#FFFFFF</color>
+    <!--04np-->
+    <color name="city04np">#DE4A1B</color>
+    <color name="temp04np">#FF6F22</color>
+    <color name="description04np">#DE4A1B</color>
+    <!--04np-->
+    <color name="city04dp">#90a4ae</color>
+    <color name="temp04dp">#90a4ae</color>
+    <color name="description04dp">#cdd7dc</color>
+    <!--09dp-->
+    <color name="city09dp">#00AB96</color>
+    <color name="temp09dp">#00AB96</color>
+    <color name="description09dp">#60BFB2</color>
+    <!--09np-->
+    <color name="city09np">#FFFFFF</color>
+    <color name="temp09np">#FFFFFF</color>
+    <color name="description09np">#FFFFFF</color>
+    <!--09dn-->
+    <color name="city09dn">#00AB96</color>
+    <color name="temp09dn">#00AB96</color>
+    <color name="description09dn">#60BFB2</color>
+    <!--09nn-->
+    <color name="city09nn">#FFFFFF</color>
+    <color name="temp09nn">#FFFFFF</color>
+    <color name="description09nn">#FFFFFF</color>
+    <!--10dp-->
+    <color name="city10dp">#541515</color>
+    <color name="temp10dp">#541515</color>
+    <color name="description10dp">#541515</color>
+    <!--10np-->
+    <color name="city10np">#FFFFFF</color>
+    <color name="temp10np">#FFFFFF</color>
+    <color name="description10np">#C2D11A</color>
+    <!--10dn-->
+    <color name="city10dn">#541515</color>
+    <color name="temp10dn">#541515</color>
+    <color name="description10dn">#541515</color>
+    <!--10nn-->
+    <color name="city10nn">#FFFFFF</color>
+    <color name="temp10nn">#FFFFFF</color>
+    <color name="description10nn">#C2D11A</color>
+    <!--11dp-->
+    <color name="city11dp">#041C06</color>
+    <color name="temp11dp">#041C06</color>
+    <color name="description11dp">#011702</color>
+    <!--11np-->
+    <color name="city11np">#D2A862</color>
+    <color name="temp11np">#D2A862</color>
+    <color name="description11np">#D2A862</color>
+    <!--11dn-->
+    <color name="city11dn">#041C06</color>
+    <color name="temp11dn">#041C06</color>
+    <color name="description11dn">#011702</color>
+    <!--11nn-->
+    <color name="city11nn">#D2A862</color>
+    <color name="temp11nn">#D2A862</color>
+    <color name="description11nn">#D2A862</color>
+    <!--13dn-->
+    <color name="city13dn">#03171e</color>
+    <color name="temp13dn">#03171e</color>
+    <color name="description13dn">#03171e</color>
+    <!--13dp-->
+    <color name="city13dp">#03171e</color>
+    <color name="temp13dp">#03171e</color>
+    <color name="description13dp">#03171e</color>
+    <!--13nn-->
+    <color name="city13nn">#181717</color>
+    <color name="temp13nn">#181717</color>
+    <color name="description13nn">#181717</color>
+    <!--13np-->
+    <color name="city13np">#181717</color>
+    <color name="temp13np">#181717</color>
+    <color name="description13np">#181717</color>
+    <!--50dn-->
+    <color name="city50dn">#0d1816</color>
+    <color name="temp50dn">#0d1816</color>
+    <color name="description50dn">#0d1816</color>
+    <!--50nn-->
+    <color name="city50nn">#FFFFFF</color>
+    <color name="temp50nn">#FFFFFF</color>
+    <color name="description50nn">#FFFFFF</color>
+    <!--50dp-->
+    <color name="city50dp">#0d1816</color>
+    <color name="temp50dp">#0d1816</color>
+    <color name="description50dp">#0d1816</color>
+    <!--50np-->
+    <color name="city50np">#FFFFFF</color>
+    <color name="temp50np">#FFFFFF</color>
+    <color name="description50np">#FFFFFF</color>
+
+    <color name="black_overlay">#66000000</color>
+
+</resources>
